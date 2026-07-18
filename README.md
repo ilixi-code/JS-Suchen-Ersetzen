@@ -1,3 +1,4 @@
+<h1>Suchen und Ersetzen mit JavaScript</h1>
 Schnelles und einfaches Suchen und Ersetzen von Wörtern als Verlinkung mittels JavaScript.<br>
 
 Das Script wird vor dem schließenden </body>-Tag eingebunden:<br>
